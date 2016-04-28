@@ -8,8 +8,8 @@ console.log("*******************")
 var divideByTwo = function(number) {
   return number / 2;
 }
-    console.log(divideByTwo(26));
-    console.log(divideByTwo(37));
+    console.log("26 divided by 2 is " + divideByTwo(26));
+    console.log("37 divided by 2 is " + divideByTwo(37));
 
 // 2. Define a function called "greeting". It should accept two parameters, which will be names.
 //    The function should output the a greeting to both people.
@@ -397,6 +397,7 @@ if (cornerBonus) {
   console.log("YOU HAVE PASSED GO!  YOU HAVE WON THE GAME! YABBA DABBA DOO!");
   break;
   }
+  console.log("");
 } while (gameOver !== true);
 
 
