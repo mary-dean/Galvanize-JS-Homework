@@ -1,0 +1,133 @@
+======================
+QUESTION 1: MINIMUM OF 2
+======================
+Your numbers are 5 and 6...The lower number is 5
+Your numbers are 259 and -5...The lower number is -5
+Your numbers are 90 and 91...The lower number is 90
+Your numbers are 5234 and 623...The lower number is 623
+======================
+QUESTION 2: MINIMUM OF 3
+======================
+Your numbers are 5 and 6 and 4...The lower number is 4
+Your numbers are 52 and 16 and 67...The lower number is 16
+Your numbers are 235 and 6403 and -74...The lower number is -74
+======================
+QUESTION 3: SUM
+======================
+Numbers: 1,2,3,4,5,6... The SUM is: 21
+Numbers: 10,20,30,40,50,60... The SUM is: 210
+Numbers: -1,2,-3,4,-5,6... The SUM is: 3
+======================
+QUESTION 4: MULTIPLY
+======================
+Numbers: 1,2,3,4,5,6... The PRODUCT is: 720
+Numbers: 2,2,2... The PRODUCT is: 8
+Numbers: 21,-2,30,14,-5,60... The PRODUCT is: 5292000
+======================
+QUESTION 5: FILTER WORDS BY LENGTH
+======================
+ORIGINAL LIST: window,table,cup,knife,barstool,glass,charger,outlet
+
+window,barstool,charger,outlet
+
+T: frankenstein,hippo,colorado,blanket,beer
+
+frankenstein,colorado,blanket
+======================
+QUESTION 6 and 7: CONVERTING TEMPERATURES
+======================
+convertTemp(32, F to C) ==> 
+32 degrees F is 0 degrees C
+convertTemp(0, C to F) ==> 
+0 degrees C is 32 degrees F
+convertTemp(212, F to C) ==> 
+212 degrees F is 100 degrees C
+convertTemp(-66, F to ) ==> 
+We seem to have a misunderstanding
+======================
+QUESTION 8: COUNT THE NUMBER OF B's
+======================
+There are 6 capital letter B's in this story: The Big Bad bear known as BABBAR lived in a blue beehive called 'Bee Village'
+
+
+There are 0 capital letter B's in this story: Martian Mary moved to Minneapolis
+
+
+======================
+QUESTION 8: COUNT ANY CHARACTER
+======================
+There are 2 occurrences of the letter Z in this story: Zoos animals in Zooville eat ziti every morning
+
+
+There are 12 occurrences of the letter s in this story: One Mississippi, Two Mississippi, Three Mississippi, FOUR!
+
+
+======================
+QUESTION 10: REPLACE LETTER 'o' WITH NUMBER ZERO
+======================
+ORIGINAL STRING: Root beer is a favorite beverage on the moon
+
+NEW STRING: R00t beer is a fav0rite beverage 0n the m00n
+
+
+ORIGINAL STRING: Scooby Dooby Doo, where are yoooooo?
+
+NEW STRING: Sc00by D00by D00, where are y000000?
+
+
+======================
+QUESTION 11: 9 BOTTLES OF BEER
+======================
+9 bottles of beer on the wall, 9 bottles of beer!
+  Take one down, pass it around...
+    8 bottles of beer on the wall! 
+
+
+8 bottles of beer on the wall, 8 bottles of beer!
+  Take one down, pass it around...
+    7 bottles of beer on the wall! 
+
+
+7 bottles of beer on the wall, 7 bottles of beer!
+  Take one down, pass it around...
+    6 bottles of beer on the wall! 
+
+
+6 bottles of beer on the wall, 6 bottles of beer!
+  Take one down, pass it around...
+    5 bottles of beer on the wall! 
+
+
+5 bottles of beer on the wall, 5 bottles of beer!
+  Take one down, pass it around...
+    4 bottles of beer on the wall! 
+
+
+4 bottles of beer on the wall, 4 bottles of beer!
+  Take one down, pass it around...
+    3 bottles of beer on the wall! 
+
+
+3 bottles of beer on the wall, 3 bottles of beer!
+  Take one down, pass it around...
+    2 bottles of beer on the wall! 
+
+
+2 bottles of beer on the wall, 2 bottles of beer!
+  Take one down, pass it around...
+    1 bottles of beer on the wall! 
+
+
+1 bottles of beer on the wall, 1 bottles of beer!
+  Take one down, pass it around...
+    0 bottles of beer on the wall! 
+
+
+Time to call Uber for a ride home!
+======================
+QUESTION 12: GUESSING GAME
+======================
+The computer has selected a number between 1 and 100, inclusive.
+The user has guessed 75 which is too LOW
+The user has guessed 80 which is too HIGH
+After 3 tries, the user has guessed 76 which is the correct number!
